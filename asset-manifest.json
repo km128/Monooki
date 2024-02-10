@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/monooki/static/css/main.f855e6bc.css",
+    "main.js": "/monooki/static/js/main.12021b9a.js",
+    "static/media/logo.svg": "/monooki/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/monooki/index.html",
+    "main.f855e6bc.css.map": "/monooki/static/css/main.f855e6bc.css.map",
+    "main.12021b9a.js.map": "/monooki/static/js/main.12021b9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.12021b9a.js"
+  ]
+}
