@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Monooki/static/css/main.5d0a4428.css",
-    "main.js": "/Monooki/static/js/main.468a42eb.js",
+    "main.css": "/Monooki/static/css/main.91581280.css",
+    "main.js": "/Monooki/static/js/main.35098300.js",
     "static/media/Logo.otf": "/Monooki/static/media/Logo.89e8e3a5712d48708f39.otf",
     "index.html": "/Monooki/index.html",
-    "main.5d0a4428.css.map": "/Monooki/static/css/main.5d0a4428.css.map",
-    "main.468a42eb.js.map": "/Monooki/static/js/main.468a42eb.js.map"
+    "main.91581280.css.map": "/Monooki/static/css/main.91581280.css.map",
+    "main.35098300.js.map": "/Monooki/static/js/main.35098300.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d0a4428.css",
-    "static/js/main.468a42eb.js"
+    "static/css/main.91581280.css",
+    "static/js/main.35098300.js"
   ]
 }
