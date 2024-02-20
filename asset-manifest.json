@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Monooki/static/css/main.5d0a4428.css",
-    "main.js": "/Monooki/static/js/main.72358477.js",
+    "main.js": "/Monooki/static/js/main.468a42eb.js",
     "static/media/Logo.otf": "/Monooki/static/media/Logo.89e8e3a5712d48708f39.otf",
     "index.html": "/Monooki/index.html",
     "main.5d0a4428.css.map": "/Monooki/static/css/main.5d0a4428.css.map",
-    "main.72358477.js.map": "/Monooki/static/js/main.72358477.js.map"
+    "main.468a42eb.js.map": "/Monooki/static/js/main.468a42eb.js.map"
   },
   "entrypoints": [
     "static/css/main.5d0a4428.css",
-    "static/js/main.72358477.js"
+    "static/js/main.468a42eb.js"
   ]
 }
